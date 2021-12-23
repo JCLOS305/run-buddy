@@ -1,7 +1,7 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -15,3 +15,5 @@ Made with ❤️ by [jEANCARLOS]
 
 ![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
+
+### ©️2019 Run Buddy, Inc 
